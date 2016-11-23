@@ -50,6 +50,7 @@
     },
     "enableNonSslPort": {
       "type": "bool",
+      "defaultValue": false,
       "metadata": {
         "description": "A boolean value that indicates whether to allow access via non-SSL ports."
       }
